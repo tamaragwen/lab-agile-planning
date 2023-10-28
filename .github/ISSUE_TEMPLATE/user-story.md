@@ -4,6 +4,7 @@ about: User story
 title: ''
 labels: ''
 assignees: ''
+labels: user_story
 
 ---
 
